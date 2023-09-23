@@ -29,10 +29,10 @@ This repository is built upon the code base of [ASL](https://github.com/Alibaba-
 
 | Dataset | mAP | Ckpt | Log |
 |:---: | :---: | :---: | :---: |
-| COCO | 76.4 | scpnet+coco.ckpt  | [scpnet+coco.txt](logs/scpnet+coco.txt) |
-| VOC | 91.2 | scpnet+voc.ckpt | [scpnet+voc.txt](logs/scpnet+voc.txt) |
-| NUSWIDE | 62.0 | scpnet+nuswide.ckpt  | [scpnet+nuswide.txt](logs/scpnet+nuswide.txt) |
-| CUB | 25.7 | scpnet+cub.ckpt | [scpnet+cub.txt](logs/scpnet+cub.txt) |
+| COCO | 76.4 | [scpnet+coco.ckpt](https://github.com/jameslahm/SCPNet/releases/download/v1.0/scpnet+coco.ckpt)  | [scpnet+coco.txt](logs/scpnet+coco.txt) |
+| VOC | 91.2 | [scpnet+voc.ckpt](https://github.com/jameslahm/SCPNet/releases/download/v1.0/scpnet+voc.ckpt) | [scpnet+voc.txt](logs/scpnet+voc.txt) |
+| NUSWIDE | 62.0 | [scpnet+nuswide.ckpt](https://github.com/jameslahm/SCPNet/releases/download/v1.0/scpnet+nuswide.ckpt)  | [scpnet+nuswide.txt](logs/scpnet+nuswide.txt) |
+| CUB | 25.7 | [scpnet+cub.ckpt](https://github.com/jameslahm/SCPNet/releases/download/v1.0/scpnet+cub.ckpt) | [scpnet+cub.txt](logs/scpnet+cub.txt) |
 
 ## Training
 
