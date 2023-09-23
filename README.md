@@ -1,7 +1,9 @@
-# Exploring Structured Semantic Prior for Multi Label Recognition with Incomplete Labels
+# [Exploring Structured Semantic Prior for Multi Label Recognition with Incomplete Labels](https://openaccess.thecvf.com/content/CVPR2023/papers/Ding_Exploring_Structured_Semantic_Prior_for_Multi_Label_Recognition_With_Incomplete_CVPR_2023_paper.pdf)
 
-Official PyTorch Implementation of the paper [Exploring Structured Semantic Prior
-for Multi Label Recognition with Incomplete Labels](https://openaccess.thecvf.com/content/CVPR2023/papers/Ding_Exploring_Structured_Semantic_Prior_for_Multi_Label_Recognition_With_Incomplete_CVPR_2023_paper.pdf)
+Official PyTorch Implementation of **SCPNet**, from the following paper:
+
+[Exploring Structured Semantic Prior
+for Multi Label Recognition with Incomplete Labels](https://openaccess.thecvf.com/content/CVPR2023/papers/Ding_Exploring_Structured_Semantic_Prior_for_Multi_Label_Recognition_With_Incomplete_CVPR_2023_paper.pdf). CVPR 2023.
 
 > Zixuan Ding*, Ao Wang*, Hui Chen†, Qiang Zhang, Pengzhang Liu, Yongjun Bao, Weipeng Yan, Jungong Han,
 > <br/> Xidian University, Tsinghua University, JD.com
@@ -16,7 +18,7 @@ benchmark datasets show that our method significantly outperforms existing metho
 <p align="center">
  <table class="tg">
   <tr>
-    <td class="tg-c3ow"><img src="./figures/overview.png" align="center" width="600" ></td>
+    <td class="tg-c3ow"><img src="./figures/overview.png" align="center" ></td>
   </tr>
 </table>
 </p>
