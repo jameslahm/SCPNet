@@ -1,0 +1,9 @@
+lr: 1e-4
+workers: 16
+image_size: 224
+batch_size: 128
+loss: SPLC
+log_file: log.txt
+weight_decay: 1e-4
+test: false
+thre: 0.5

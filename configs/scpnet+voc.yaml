@@ -1,0 +1,22 @@
+data: /home/wangao/datasets/voc2012/
+train_dataset: ./dataset/voc_train.txt
+val_dataset: ./dataset/voc_val.txt
+num_classes: 20
+n_ctx: 4
+checkpoint: scpnet+voc
+ctx_init: a photo of a
+log_file: scpnet+voc.txt
+epochs: 120
+total_epochs: 120
+lr: 4e-5
+lambda_u: 0.125
+p_cutoff: 0.95
+hard_k: 5
+kl_lambda: 2
+T: 0.3
+sparse_topk: 20
+reweight_p: 0.2
+gcn_lr: 2e-4
+relation_file: relation+voc.npy
+ratio: 1
+scale: 10

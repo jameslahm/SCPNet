@@ -1,0 +1,23 @@
+data: /home/wangao/datasets/cub/
+train_dataset: ./dataset/cub_train.txt
+val_dataset: ./dataset/cub_val.txt
+num_classes: 312
+n_ctx: 4
+checkpoint: scpnet+cub
+ctx_init: a photo of a
+log_file: scpnet+cub.txt
+total_epochs: 100
+epochs: 100
+lr: 3e-4
+lambda_u: 0.125
+p_cutoff: 0.95
+hard_k: 31
+kl_lambda: 3
+T: 0.3
+sparse_topk: 312
+reweight_p: 0.2
+gcn_lr: 2e-4
+relation_file: relation+cub.npy
+ratio: 1
+scale: 10
+batch_size: 96
